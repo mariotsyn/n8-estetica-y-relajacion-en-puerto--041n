@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Estética y relajación en puerto de sagunto Isabel Proenza",
+    "tagline": "Desconecta, renuévate y brilla con luz propia.",
+    "description": "En el corazón de Puerto de Sagunto, Isabel Proenza te ofrece un santuario dedicado a tu belleza y relajación. Disfruta de tratamientos personalizados en un ambiente acogedor, donde cada detalle está pensado para tu bienestar.",
+    "phone": "+34 689 37 39 67",
+    "address": "Carrer del Poeta Llombart, 27, 46520 Port de Sagunt, Valencia, España",
+    "email": "contacto@isabelproenzaestetica.es",
+    "rating": 4.8,
+    "reviewCount": 103,
+    "hours": ["Monday: 9:00 AM – 6:00 PM","Tuesday: 9:00 AM – 6:00 PM","Wednesday: 9:00 AM – 6:00 PM","Thursday: 9:00 AM – 6:00 PM","Friday: 9:00 AM – 6:00 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#E0C0B4",
+    "secondary": "#333333",
+    "accent": "#C9A87C",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Redescubre tu belleza, encuentra tu calma.",
+    "subheadline": "Ofrecemos tratamientos de estética avanzada y masajes relajantes para que te sientas renovada por dentro y por fuera.",
+    "cta1": { "text": "Pedir Cita", "href": "#contact" },
+    "cta2": { "text": "Ver Tratamientos", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJd2yWoKUXYA0RcXtXjtHi5zc/photos/Ab43m-tgcZzW1spL2BsBubi7kpEhCeSxuGkjEZx5flRKHNd8sxfX48hGn4Pr-EyrUqDRkNfECDHGOHO4hp7NbPKy9Qc2MX1oWI63nTDsaPq_zfNgl_808NcZFg097tl8ApaAthfStKg3nNkXeaZvU7iE--gfiJk_10JXFqj--ZGOzD6u-_XmWdGbfiYr1lpwfCjmDDaz3fqK9qtWZcI_Q4HRTGZoHRMf0bSA16o8pnL7PQD8w2VJsDTaiKS5-yzvb9GMOeuxdR4cI0QYamvtlA82PDAOdK-JbJ9L1bN6nCOHWzMB_A/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "💆‍♀️", "title": "Tratamientos Faciales Avanzados", "description": "Limpia, hidrata y rejuvenece tu piel con nuestras terapias personalizadas. Utilizamos productos de alta gama para devolverle la luminosidad a tu rostro." },
+    { "icon": "💅", "title": "Manicura y Pedicura Spa", "description": "Cuida tus manos y pies con un servicio completo que incluye exfoliación, hidratación y esmaltado. Un momento de mimo y color para ti." },
+    { "icon": "🌸", "title": "Masajes Relajantes y Terapéuticos", "description": "Libera tensiones y encuentra el equilibrio perfecto entre cuerpo y mente. Elige entre masajes descontracturantes, relajantes o con aromaterapia." },
+    { "icon": "✨", "title": "Depilación Profesional", "description": "Consigue una piel suave y cuidada con nuestros sistemas de depilación de última generación. Resultados duraderos en un ambiente confortable y profesional." }
+  ],
+  "about": {
+    "title": "Tu Santuario de Bienestar en Puerto de Sagunto",
+    "text": "En Estética y Relajación Isabel Proenza, creemos que la verdadera belleza nace del bienestar interior. Nuestro centro fue creado como un refugio en Puerto de Sagunto, un lugar donde puedes pausar el ritmo del día a día y dedicarte un tiempo de calidad solo para ti.\n\nCon una pasión por la estética y un profundo conocimiento de las técnicas más innovadoras, Isabel y su equipo ofrecen un trato cercano y totalmente personalizado. Estudiamos las necesidades de cada cliente para diseñar tratamientos a medida que garanticen resultados visibles y una experiencia de relajación inigualable. Nuestra valoración de 4.8 estrellas es el reflejo de nuestro compromiso con la excelencia y la satisfacción de quienes nos visitan.",
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJd2yWoKUXYA0RcXtXjtHi5zc/photos/Ab43m-szEYOlbaT57Weu-G7mq2dZDxnLTPdznZ0T1LWdFgSELnH5Rs_vG8khFglqykWwFijeuRgbBb3QRdwMNZuvKeEUdd55_lWKppg00P4bdn7-JPpTzV4AxNmPIDaz7Nx3VkcOSv7S_Eal8CHlHfrQb-O7i12hRruPBEveG2uML3mW5-7iLm8Nx7sGI36TgDLyH6cGw77jCZ9x3Y3K4uzijgEsVrrPeYOLtvOaIFkOlwpmo6GQXkCib8GKLuVOWxG-F0lY0IOtBM1V9FtbtLnvZN3oJ7yl6SWUkeQMo3nqVEsiVw/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJd2yWoKUXYA0RcXtXjtHi5zc/photos/Ab43m-uIo88A40XXKS1DTGHOljFDK9_x1tL_BdVLXcFWFUndwQwtyyEElo1mB91pWFU_yVVSUDzgYVGOOvd4hQW8fF58xWUnhNAiCex5zUkfM_9K02AdUBdnOfqcIY9Yr-i9yBDoo9Am5oJz8mY9_a2BLFU-jGTc9bPLhAw-ffnpqsSVT_6h0vh5J3hcsgrs83IJxlaBqlSlj-BozTwtsWn32AdOVQ7m0GxSA78lAHQZ4eLK4pIVBTD55S3W3G6qCcIPeCteUAdwmv0-dRxBSmI4N7pnWrivhlZNg86-9jbIu_GcJQ/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Cabina de tratamiento equipada y acogedora" },
+    { "url": "https://places.googleapis.com/v1/places/ChIJd2yWoKUXYA0RcXtXjtHi5zc/photos/Ab43m-u1B7PHiRWNeaLMqVZk1piceTRmUkHSf-nvCWMJtMFmSrU_WVtb3tbZiM7yQHbg1OQqph9S8NSSlR2B8Dutf1WcSphQp4Ki6jT2Q5AlNx5E8bnzNzuJatAIo9-mdMi5-P0LBKmkZS9g6J-JFB3In6cYzuFoW8NphmMoj3QWh-R2lg_Iwx5A18pRLnDMBFlZZvocVrKYqY6PzzQkUHvq1NX3-X-sv4ksfux_qGbuEumEBgGDnxY9vTeb_9jM0Dm44XgxzjoZfWujFbXlpofcSDEUzoryIlRX6RQzZwPZwC16pw/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Zona de recepción y espera del centro de estética" },
+    { "url": "https://places.googleapis.com/v1/places/ChIJd2yWoKUXYA0RcXtXjtHi5zc/photos/Ab43m-sUVp9JKreeCDXO7ohylZ_ZDUODVK8xJbbz7vUdpYtfdko48u4pi4e039bMSknnz8tuB33EAhGCFsTkGoXNFL_-XSWKnQ0sqQOk9va_LnDbA8jipHB9wDB7rVAxYgyF1IdOEtBh-E_Y5B81DVXhKXZhUKl8xqOGwpdSvWrNP_1ArYVrYEjlRk_JGl7cAxHsQl8YfipgVBd7ErkPgswgs_X1twj8_7mTfUkgSomRnOmoDmhOIX_5xZ85zCyhqyvoAILN6hv0Kc5VbNDmmoizLXDjbCo_OwS9tJI_Ubau7aS4_w/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Detalle de productos y aparatología profesional" },
+    { "url": "https://places.googleapis.com/v1/places/ChIJd2yWoKUXYA0RcXtXjtHi5zc/photos/Ab43m-uLGSJNa98SIURqkYqOsx3vvONpImfksQYoq4TzzrHdHuRgPkjQ1RxMsx1AOUgHbJrmzKK4SXF6AjtJbL4urwuWiiNHv5WxzAPPfrOHBXIrJZLdSdTJzanXE2G7ICuM7J_OuQX8BAtsYECfxAaZZo2pGN7tZtT2-ENI3vLEoMutJM_csFw_jnQ8w91uslBJF1sG4B4quc0hx-3hJwA0oWg-ieHcceMeUMsNuTqx6oVkdHA8gyPo1tw_RX20qwHdhDQpppkatPdmC-qRdfdyss4EcYn_0mlvOpA7GkAZRThGBg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Espacio de tratamiento facial limpio y profesional" }
+  ],
+  "testimonials": [
+    { "name": "Laura García", "stars": 5, "text": "El trato de Isabel es increíble, súper profesional y cercana. Salgo de aquí como nueva cada vez que vengo, ¡un 10!" },
+    { "name": "Carlos Martínez", "stars": 5, "text": "Un oasis de paz en pleno Puerto de Sagunto. Los masajes son espectaculares, totalmente recomendables para desconectar." },
+    { "name": "Sofía Pérez", "stars": 4, "text": "Muy buen servicio y el local es muy relajante. A veces es un poco difícil conseguir cita, pero merece la pena la espera." }
+  ],
+  "contact": {
+    "title": "¿Lista para dedicarte un momento?",
+    "subtitle": "Contacta con nosotros por teléfono o WhatsApp y reserva tu cita. ¡Te esperamos para cuidarte!",
+    "whatsappNumber": "+34 689 37 39 67",
+    "showMap": true,
+    "mapQuery": "Estética y relajación en puerto de sagunto Isabel Proenza Carrer del Poeta Llombart, 27, 46520 Port de Sagunt, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Estética y relajación en puerto de sagunto Isabel Proenza"
+  }
+}
